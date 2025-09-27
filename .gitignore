@@ -1,0 +1,8 @@
+node_modules/
+.env
+backend/target/
+frontend/build/
+*.log
+.idea/
+.vscode/
+node_modules/ 
