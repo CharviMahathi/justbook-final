@@ -24,7 +24,7 @@ JustBook is a minimal online movie ticket system with a React frontend, Spring B
    ```
 2. Access the application:
    - Frontend UI: http://localhost:3000
-   - Backend API: http://localhost:8080/api
+   - Backend API: http://localhost:8080/api/bookings
    - MySQL: host `localhost`, port `3306`, user `justbook`, password `justbook`
 
 The compose file seeds a few sample movies automatically on first start.
